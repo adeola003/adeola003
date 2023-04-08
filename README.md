@@ -41,5 +41,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<h1 align="center"> 👋 Available for hire<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-khadaf3@gmail.com.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:khadaf3@gmail.com)](khadaf3@gmail.com)
