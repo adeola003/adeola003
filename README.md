@@ -17,7 +17,7 @@
 	
 </p>
 
-- :school: I am a `Student` at [Microverse](https://www.microverse.org/go?utm_source=google&utm_medium=paid&utm_campaign=search_europe&gclid=Cj0KCQjw8qmhBhClARIsANAtbod6Pq7u56GcVe0m54EaFev4JtGoQAI3eBKm3QFWHofImMBmNp3RdPMaAhScEALw_wcB)
+- :school: I studied software development ` at [Microverse](https://www.microverse.org/go?utm_source=google&utm_medium=paid&utm_campaign=search_europe&gclid=Cj0KCQjw8qmhBhClARIsANAtbod6Pq7u56GcVe0m54EaFev4JtGoQAI3eBKm3QFWHofImMBmNp3RdPMaAhScEALw_wcB)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer and I aim to achieve heavy records.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
